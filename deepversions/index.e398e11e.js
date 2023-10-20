@@ -1,3 +1,4 @@
+alert("from index file");
 var t = Object.defineProperty
   , e = Object.defineProperties
   , n = Object.getOwnPropertyDescriptors
